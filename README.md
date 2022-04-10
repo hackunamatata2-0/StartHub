@@ -11,10 +11,10 @@ A platform that makes raising investment for your startups easier than never bef
 1.1)Clone the GitHub repository.\
 1.2)Make sure you have installed Python 3.10.0 and Django 4.0.1\
 1.3)Make sure you have pillow installed, else run the ```pip install Pillow``` command
-1.4)cd into the main repository in the terminal. When you run the ls command, if you see the file manege.py, you are at the correct location to run the next command.If you don't see, then use cd to reach the correct directory.\
-1.4)Now if python 3.10.0 is the only version of python you have, then run the command "python manage.py runserver". If you have multiple versions of python, then run "python3 manage.py runserver"\
-1.5)You would see something like this in terminal "Starting development server at (a url)". Copy that URL and run it in the browser(Chrome and Safari are strongly recommended).\
-1.6)You can now access the website. Either sign up to make a new account or use email:ketaki@gmail.com password:dogcat123 to login(this is also the admin account). While signing up, make sure to create a complex password
+1.4)cd into the main repository in the terminal. When you run the ls command, if you see the file manege.py, you are at the correct location to run the next command.If you don't see, then use cd to reach the correct directory.Make Migrations using "python3 manage.py makemigrations" followed by "python3 manage.py migrate"\\
+1.5)Now if python 3.10.0 is the only version of python you have, then run the command "python manage.py runserver". If you have multiple versions of python, then run "python3 manage.py runserver".\
+1.6)You would see something like this in terminal "Starting development server at (a url)". Copy that URL and run it in the browser(Chrome and Safari are strongly recommended).\
+1.7)You can now access the website. Either sign up to make a new account or use email:ketaki@gmail.com password:dogcat123 to login(this is also the admin account). While signing up, make sure to create a complex password.
 # 2)Basic structure and URL paths
 2.1)Basic structure
 
