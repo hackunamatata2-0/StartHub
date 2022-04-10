@@ -71,7 +71,7 @@ Front End Developers:\
 B\
 Yukta Rajapur\
 Backend End Developers:\
-K\
+Ketaki Tamhanakar\
 Nitheezkant R
 
 Devfolio Project Submition: \
