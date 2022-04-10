@@ -14,7 +14,7 @@ A platform that makes raising investment for your startups easier than never bef
 1.4)cd into the main repository in the terminal. When you run the ls command, if you see the file manege.py, you are at the correct location to run the next command.If you don't see, then use cd to reach the correct directory.\
 1.4)Now if python 3.10.0 is the only version of python you have, then run the command "python manage.py runserver". If you have multiple versions of python, then run "python3 manage.py runserver"\
 1.5)You would see something like this in terminal "Starting development server at (a url)". Copy that URL and run it in the browser(Chrome and Safari are strongly recommended).\
-1.6)You can now access the website. Either sign up to make a new account or use email:nitheez@iiitb.ac.in password:dogcat123 to login(this is also the admin account). While signing up, if you use enter college as IIITB or IIMB, you will be able to see a few sample books that are posted beforehand.
+1.6)You can now access the website. Either sign up to make a new account or use email:ketaki@iiitb.ac.in password:dogcat123 to login(this is also the admin account). While signing up, make sure to create a complex password
 # 2)Basic structure and URL paths
 2.1)Basic structure
 
