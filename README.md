@@ -68,7 +68,7 @@ https://github.com/twbs/bootstrap \
 
 # Developed by Hackuna Matata
 Front End Developers:\
-B\
+Brij Desai\
 Yukta Rajapur\
 Backend End Developers:\
 Ketaki Tamhanakar\
