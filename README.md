@@ -4,9 +4,8 @@ A platform that makes raising investment for your startups easier than never bef
 1)How to run the code?\
 2)Basic structure and URL paths\
 3)Database\
-4)Forms\
-5)Views\
-6)Static and Templates
+4)Views\
+5)Static and Templates
 # 1)How to run the code?
 1.1)Clone the GitHub repository.\
 1.2)Make sure you have installed Python 3.10.0 and Django 4.0.1\
