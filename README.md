@@ -73,8 +73,8 @@ Backend End Developers:\
 Ketaki Tamhanakar\
 Nitheezkant R
 
-Devfolio Project Submition: \
-Project Demo:
+Devfolio Project Submition:https://devfolio.co/projects/starthub-9146 \
+Project Demo:https://youtu.be/KnKsXnzCP7Q
 
 # The End
 
